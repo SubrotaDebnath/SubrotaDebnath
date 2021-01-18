@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I,m Subrota, 
+I,m a Mobile Application developer and an enthusiastic person who loves to explore different paths and make new experiences besides I'm a hard-working, honest individual, always willing to learn new skills. Quite friendly, helpful, and polite, have a good sense of humor. To fulfill my object, I am outgoing and tactful and able to listen effectively when solving problems. 
 <!--
 **SubrotaDebnath/SubrotaDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
