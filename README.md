@@ -7,10 +7,10 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
 __________________
  
  ![Subrota's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubrotaDebnath&show_icons=true&theme=radical)
- 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)
 
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)](https://github.com/anuraghazra/github-readme-stats)
 
  
  <a href="https://www.linkedin.com/in/subrota-debnath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
