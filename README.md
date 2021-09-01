@@ -4,3 +4,4 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Subrota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SubrotaDebnath)](https://github.com/anuraghazra/github-readme-stats)
