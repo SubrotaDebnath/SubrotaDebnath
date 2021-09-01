@@ -6,16 +6,16 @@ I'm a Mobile Application developer and an enthusiastic person who loves to explo
  
 __________________
  
+ ![Subrota's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubrotaDebnath&show_icons=true&theme=radical)
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Subrota's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubrotaDebnath&show_icons=true&theme=radical)
  
- 
- <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+ <a href="https://www.linkedin.com/in/subrota-debnath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/subrota_shuvro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/Subrota.Debnath.Shuvro/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
 
 </div>
