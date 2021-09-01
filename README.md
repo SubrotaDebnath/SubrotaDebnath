@@ -11,7 +11,7 @@ __________________
 
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)
  
  
  <h3 align="center">Languages and Tools:</h3>
