@@ -10,7 +10,10 @@ __________________
 
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrotaDebnath)]
+ 
+ [![Subrota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SubrotaDebnath)]
+
 
  
  <a href="https://www.linkedin.com/in/subrota-debnath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
