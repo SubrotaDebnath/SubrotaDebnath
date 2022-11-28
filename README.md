@@ -1,7 +1,7 @@
 
 ### 👋 200 OK
 
-<div align = "center">
+<div align = "start">
 {<br>&emsp
    "name":"Subrota Debneth",<br>&emsp
    "occupation":"Mobile Application Developer",,<br>&emsp
