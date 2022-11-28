@@ -1,7 +1,6 @@
 
 ### &#128994; 200 OK
 
-<div align = "start">
 {<br>&emsp;
    "name":"Subrota Debneth",<br>&emsp;
    "occupation":"Mobile Application Developer",,<br>&emsp;
@@ -21,6 +20,5 @@
       "phone":"+8801854397708"<br>&emsp;&emsp;
    }<br>
 }
-<\div>
 
 
