@@ -1,5 +1,5 @@
 
-### U+1f7e2 200 OK
+### &#128994; 200 OK
 
 <div align = "start">
 {<br>&emsp;
