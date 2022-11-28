@@ -1,5 +1,5 @@
 
-### 👋 200 OK
+### U+1f7e2 200 OK
 
 <div align = "start">
 {<br>&emsp;
@@ -16,7 +16,7 @@
    "hobby":[<br>&emsp;&emsp;
       "travelling"<br>&emsp;
    ],<br>&emsp;
-   "contacts":{<br>&emsp;&ems;p&emsp;
+   "contacts":{<br>&emsp;&emsp;&emsp;
       "email":"developer.subrota@gmail.com",<br>&emsp;&emsp;&emsp;
       "phone":"+8801854397708"<br>&emsp;&emsp;
    }<br>
