@@ -2,7 +2,7 @@
 ### &#128994; 200 OK
 
 {<br>&emsp;
-   "name":"Subrota Debneth",<br>&emsp;
+   "name":"Subrota Debnath",<br>&emsp;
    "occupation":"Mobile Application Developer",,<br>&emsp;
    "currently_working_with":[,<br>&emsp;&emsp;
       "Android",<br>&emsp;&emsp;
