@@ -1,6 +1,6 @@
 
 ### &#128994; 200 OK
-
+<!---
 {<br>&emsp;
    "name" : "Subrota Debnath",<br>&emsp;
    "occupation" : "Mobile Application Developer",<br>&emsp;
@@ -20,5 +20,5 @@
       "phone" : "+8801854397708"<br>&emsp;&emsp;
    }<br>
 }
-
+-->
 
