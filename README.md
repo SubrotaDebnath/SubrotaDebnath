@@ -1,3 +1,22 @@
+<p align="left">
+  <a href="https://leetcode.com/subrota/">
+    <img src="https://cp-logo.vercel.app/leetcode/subrota" alt="Leet code rating" />
+  </a>
+<!--   <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a> -->
+  <a href="https://stackoverflow.com/users/19437950/subrota-debnath">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19437950?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/SubrotaDebnath?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SubrotaDebnath?color=green&logo=github">
+  </a>
+  <a href="https://github.com/SubrotaDebnath/">
+    <img src="https://komarev.com/ghpvc/?username=SubrotaDebnath" alt="visitors" />
+  </a>
+
+</p>
+
 # Hello, I'm [Subrota Debnath](https://subrotadebnath.github.io/) 👋
 
 
@@ -24,6 +43,14 @@ Passionate about crafting elegant, intuitive, and user-friendly mobile apps that
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<!-- #### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>  -->
 
 ## Competitive Programming
 <p float="left">
