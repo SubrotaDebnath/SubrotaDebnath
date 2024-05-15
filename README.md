@@ -5,7 +5,7 @@
 <!--   <a href="https://codeforces.com/profile/sudipto.me">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a> -->
-  <a href="https://stackoverflow.com/users/19437950/subrota-debnath">
+<!--  <a href="https://stackoverflow.com/users/19437950/subrota-debnath">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19437950?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/SubrotaDebnath?tab=followers">
@@ -52,13 +52,13 @@ Passionate about crafting elegant, intuitive, and user-friendly mobile apps that
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>  -->
 
-## Competitive Programming
+<!--## Competitive Programming
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/subrota?theme=dark&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/{}/cf-stats/main/output/light_card.svg" /> -->
-</p>
+<!--</p>
 
-## Connect With Me
+<!--## Connect With Me
 
 <p left="center">
 <a href="https://twitter.com/debnath_subrota">
@@ -80,6 +80,6 @@ Passionate about crafting elegant, intuitive, and user-friendly mobile apps that
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a> -->
 
-</p>
+<!--</p>
 -->
 
