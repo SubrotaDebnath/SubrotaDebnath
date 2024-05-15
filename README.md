@@ -1,4 +1,4 @@
-<p align="left">
+<!-- <p align="left">
   <a href="https://leetcode.com/subrota/">
     <img src="https://cp-logo.vercel.app/leetcode/subrota" alt="Leet code rating" />
   </a>
@@ -81,4 +81,5 @@ Passionate about crafting elegant, intuitive, and user-friendly mobile apps that
 </a> -->
 
 </p>
+-->
 
